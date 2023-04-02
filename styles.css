@@ -29,7 +29,7 @@ a {
   text-align: center;
 }
 
-.post-list-item {
+.posts-list-item {
   position: relative;
   display: flex;
   flex-direction: column;
