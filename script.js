@@ -1,5 +1,5 @@
 //https://dev.to/ramonak/javascript-how-to-access-the-return-value-of-a-promise-object-1bck
-
+//https://www.youtube.com/watch?v=Veaz0BMMOWA&list=PLenwk9TUJzJ41x_7o3Z5laAngAuuqfpQW&index=25
 // ==============================================================================================================================================================================================
 const ulElement = document.querySelector(".posts-list");
 const arr = fetch("https://jsonplaceholder.typicode.com/posts")
